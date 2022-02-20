@@ -96,6 +96,8 @@ Upload your video in Youtube and paste your video-id here
 [![IMAGE ALT TEXT HERE](https://youtu.be/wPLtrQTAhaAwatch?v=YOUTUBE_VIDEO_ID_HERE/0.jpg)]
 
 <br/>
+https://youtu.be/wPLtrQTAhaAwatch?v=YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+
 <br/>
 <br/>
 <br/>
